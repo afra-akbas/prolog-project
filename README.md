@@ -48,4 +48,7 @@ It was our project for CMPE260 - PRINCIPLES OF PROGRAMMING LANGUAGES. The goal o
 ###### L = [realmadrid, manutd, arsenal];
 ###### false.
 
+
 Note: Because prolog is the logic programming, outputs are true and false. If your predicate can be arrived by facts, the output is true. Otherwise, it false. If there are several cases, it gives the possible outputs.
+
+To learn more about the project, look over [the report.](https://github.com/afra-akbas/prolog-project/blob/master/report%20file.docx)
